@@ -2,10 +2,10 @@
 
 Sou estudante em desenvolvimento para a área de **Análise de Dados**, com interesse em transformar dados em informações úteis para tomada de decisão.
 
-Atualmente estou estudando e criando projetos com **Python, Excel, Power BI, SQL e GitHub**.  
-Também estou desenvolvendo automações em Python para resolver problemas reais do dia a dia.
+Atualmente estou estudando e desenvolvendo projetos com **Python, Excel, Power BI, SQL e GitHub**.  
+Também estou criando automações em Python para resolver problemas reais do dia a dia.
 
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasdepaula.lovable.app)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasdepaula.lovable.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lukacampos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdepaula-data/)
 
@@ -25,17 +25,27 @@ Também estou desenvolvendo automações em Python para resolver problemas reais
 ## Sobre mim
 
 - Estou me preparando para atuar na área de **Análise de Dados**
-- Tenho interesse em **Python, Excel, Power BI e SQL**
-- Gosto de criar soluções práticas usando automação
-- Atualmente estou desenvolvendo projetos para meu portfólio no GitHub
+- Tenho interesse em **Python, Excel, Power BI, SQL e automações**
+- Gosto de criar soluções práticas para otimizar tarefas manuais
+- Atualmente estou desenvolvendo projetos para compor meu portfólio no GitHub
 
 ## Projetos em destaque
 
-### Automação de Cronogramas em Excel
+### [Automação de Cronogramas em Excel](https://github.com/LucasCampo5/automacao-cronogramas-excel)
+
 Projeto em Python para automatizar o preenchimento mensal de planilhas de cronograma, incluindo dias do mês, dias da semana e formatações automáticas.
 
-### Portfólio de Dados
+**Tecnologias:** Python, Excel, OpenPyXL  
+**Status:** Em desenvolvimento
+
+---
+
+### [Portfólio de Dados](https://github.com/LucasCampo5/portfolio-dados-lucas)
+
 Repositório com estudos e projetos voltados para análise de dados, dashboards e automações.
+
+**Tecnologias:** Python, Excel, Power BI, SQL  
+**Status:** Em construção
 
 ## Próximos estudos
 
